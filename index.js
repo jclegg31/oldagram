@@ -45,8 +45,8 @@ document.addEventListener('DOMContentLoaded', function () {
         <section class="poster-section">
           <img src="${obj.avatar}" class="poster-avatar" />
           <div class="poster-info">
-            <h1 class="poster-name">${obj.name}</h1>
-            <h2 class="poster-location">${obj.location}</h2>
+            <h2 class="poster-name">${obj.name}</h2>
+            <h3 class="poster-location">${obj.location}</h3>
           </div>
         </section>
         <section class="posted-image">
